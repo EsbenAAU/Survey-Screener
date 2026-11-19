@@ -1,0 +1,8 @@
+# Screening projects: records, downloaded PDFs and the browser profile with your logins
+projects/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
